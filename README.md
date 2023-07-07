@@ -136,6 +136,7 @@
   ####   1_1. 개인정보 수정 기능
   - 마이페이지 개인정보(아이디, 이름 등) 수정
   <img src="src/main/resources/static/gif/user_updateInfo.gif">
+  
   - 보안관리 페이지 비밀번호 수정
   <img src="src/main/resources/static/gif/user_updatePW.gif">
 
@@ -165,10 +166,12 @@
   
   ####   1_8. 실시간 알림 기능
   - 나에게 도착한 실시간 문서 결재 요청이 있을 경우 &  QNA 작성 글 또는 댓글에 댓글이 달릴 경우
-    - 다른 계정으로 댓글 작성시 알림이 실시간으로 전송 됨.
+
+    - 다른 계정으로 댓글 작성시 알림이 실시간으로 전송
+      
   <img src="src/main/resources/static/gif/SSE.gif">
   
-    - 결재 신청시 알림이 실시간으로 전송 됨.(결재 오류 해결 후 캡쳐 필요)
+  - 결재 신청시 알림이 실시간으로 전송 (결재 오류 해결 후 캡쳐 필요)
 
 ## 배포
 **미정**
